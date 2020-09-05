@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /news1.html
+Disallow: /easteregg.html
+Disallow: /devui.html
