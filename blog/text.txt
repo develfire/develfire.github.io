@@ -1,5 +1,0 @@
-Hello World!
-I'm hosted with GitHub Pages.
-This is our blog.
-This file is made for testing bugs, so please ignore this!
-Thank you!
